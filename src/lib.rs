@@ -1,3 +1,7 @@
+pub mod protogen;
+
+
+
 #[cfg(test)]
 mod tests {
     #[test]
